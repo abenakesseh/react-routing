@@ -1,0 +1,13 @@
+h1,
+p {
+  font-family: Lato;
+}
+
+.active {
+  color: red;
+  font-weight: 600;
+}
+
+.jumbotron{
+  text-align: center;
+}
